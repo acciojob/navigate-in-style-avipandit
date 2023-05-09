@@ -3,7 +3,7 @@
 	padding: 10px;
 }
 .container ul li{
-	display: inline;
+	display: flex;
 	margin-right: 1rem;
 	list-style:none;
 }
